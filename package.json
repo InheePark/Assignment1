@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "assignment1",
+  "description": "COMP 229 assignment 1 express website development",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InheePark/Assignment1.git"
+  },
+  "keywords": [
+    "Assignment",
+    "1",
+    "Portfolio",
+    "NodeJS",
+    "Express",
+    "Web"
+  ],
+  "author": "Inhee Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InheePark/Assignment1/issues"
+  },
+  "homepage": "https://github.com/InheePark/Assignment1#readme"
+}
